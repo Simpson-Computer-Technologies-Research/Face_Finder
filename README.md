@@ -1,4 +1,4 @@
-# Face Finder ![Stars](https://img.shields.io/github/stars/realTristan/FaceFinder?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/realTristan/FaceFinder?label=Watchers)
+# Face Finder ![Stars](https://img.shields.io/github/stars/Simpson-Computer-Technologies-Research/Face_Finder?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/Simpson-Computer-Technologies-Research/Face_Finder?label=Watchers)
 ![face_detection](https://user-images.githubusercontent.com/75189508/149673366-5a1e8c01-37df-4f65-bcf3-42eb5054679f.png)
 
 # About
